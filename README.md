@@ -1,7 +1,12 @@
-#Wilkommen
-###kvntang.github.io
+# kvntang.github.io
 
-##Projects
-1. dd
-2. dd
-3. dd
+## About
+I’m a designer interested in developing new awareness and understanding through the interaction between user, technology, and product.
+
+## Projects
+* [Project 1](https://github.com/datamade/usaddress)
+* [Project 2](https://github.com/derekeder/FusionTable-Map-Template)
+* [Project 3](https://github.com/datamade/csvdedupe)
+* [Project 4](https://github.com/datamade/chi-councilmatic)
+
+## Resources
